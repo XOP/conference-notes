@@ -7,7 +7,7 @@
 
 ## 2016
 
-### dotJS, Paris, 5 of December :construction: coming up!
+### [dotJS, Paris, 5 of December](https://gist.github.com/XOP/7974d7a6268d4a41c4c5d68b6c318008)
 
 ### [dotCSS, Paris, 2 of December](https://gist.github.com/XOP/9d5c7424779e5b48cdb6fd8821c6fafd)
 
