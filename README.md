@@ -5,6 +5,13 @@
 
 
 
+## 2017
+
+### [jsDay, Verona, 10-11 of May](https://medium.com/@stewiekillsloiss/jsday-it-2017-verona-italy-may-10th-11th-dc7b940c4b93)
+
+
+
+
 ## 2016
 
 ### [dotJS, Paris, 5 of December](https://gist.github.com/XOP/7974d7a6268d4a41c4c5d68b6c318008)
